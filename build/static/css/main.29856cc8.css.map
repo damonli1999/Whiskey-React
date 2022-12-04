@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.29856cc8.css","mappings":"AAAA,iBAGI,kBAAmB,CAEnB,+CAAqD,CAHrD,QAAS,CADT,SAKJ","sources":["styles.css"],"sourcesContent":["*,*:before,*::after{\n    padding: 0;\n    margin: 0;\n    box-sizing: inherit;\n    /* border: 1px solid red; */\n    font-family: Georgia, 'Times New Roman', Times, serif;\n}"],"names":[],"sourceRoot":""}

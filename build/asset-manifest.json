@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29856cc8.css",
+    "main.js": "/static/js/main.120218c1.js",
+    "analytics.js": "/static/js/analytics.cb5908bb.chunk.js",
+    "database.js": "/static/js/database.125d40f1.chunk.js",
+    "firestore.js": "/static/js/firestore.6c637658.chunk.js",
+    "functions.js": "/static/js/functions.3ea6a615.chunk.js",
+    "messaging.js": "/static/js/messaging.52c02b02.chunk.js",
+    "performance.js": "/static/js/performance.c1d40ba6.chunk.js",
+    "remoteConfig.js": "/static/js/remoteConfig.c5d4dfeb.chunk.js",
+    "storage.js": "/static/js/storage.72ad83fa.chunk.js",
+    "index.html": "/index.html",
+    "main.29856cc8.css.map": "/static/css/main.29856cc8.css.map",
+    "main.120218c1.js.map": "/static/js/main.120218c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29856cc8.css",
+    "static/js/main.120218c1.js"
+  ]
+}
